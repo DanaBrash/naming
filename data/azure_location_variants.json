@@ -29,19 +29,7 @@
   },
   {
     "_GeoCode": "EUS2",
-    "_RegionName": "eus2"
-  },
-  {
-    "_GeoCode": "EUS2",
     "_RegionName": "E US2"
-  },
-  {
-    "_GeoCode": "EUS2",
-    "_RegionName": "EastUS2"
-  },
-  {
-    "_GeoCode": "EUS2",
-    "_RegionName": "EUS2"
   },
   {
     "_GeoCode": "WUS3",
@@ -65,19 +53,7 @@
   },
   {
     "_GeoCode": "WUS3",
-    "_RegionName": "WestUS3"
-  },
-  {
-    "_GeoCode": "WUS3",
-    "_RegionName": "Wus3"
-  },
-  {
-    "_GeoCode": "WUS3",
     "_RegionName": "West_US_3"
-  },
-  {
-    "_GeoCode": "WUS3",
-    "_RegionName": "wus3"
   },
   {
     "_GeoCode": "WUS3",
@@ -113,19 +89,7 @@
   },
   {
     "_GeoCode": "NCUS",
-    "_RegionName": "ncus"
-  },
-  {
-    "_GeoCode": "NCUS",
-    "_RegionName": "northcentralus"
-  },
-  {
-    "_GeoCode": "NCUS",
     "_RegionName": "NC US"
-  },
-  {
-    "_GeoCode": "NCUS",
-    "_RegionName": "Ncus"
   },
   {
     "_GeoCode": "NCUS",
@@ -149,10 +113,6 @@
   },
   {
     "_GeoCode": "SCUS",
-    "_RegionName": "SCUS"
-  },
-  {
-    "_GeoCode": "SCUS",
     "_RegionName": "South-Central-US"
   },
   {
@@ -166,14 +126,6 @@
   {
     "_GeoCode": "SCUS",
     "_RegionName": "South_Central_US"
-  },
-  {
-    "_GeoCode": "SCUS",
-    "_RegionName": "scus"
-  },
-  {
-    "_GeoCode": "SCUS",
-    "_RegionName": "southcentralus"
   },
   {
     "_GeoCode": "NEU",
@@ -193,19 +145,7 @@
   },
   {
     "_GeoCode": "NEU",
-    "_RegionName": "northeurope"
-  },
-  {
-    "_GeoCode": "NEU",
     "_RegionName": "North Europe"
-  },
-  {
-    "_GeoCode": "NEU",
-    "_RegionName": "neu"
-  },
-  {
-    "_GeoCode": "NEU",
-    "_RegionName": "Neu"
   },
   {
     "_GeoCode": "WEU",
@@ -222,18 +162,6 @@
   {
     "_GeoCode": "WEU",
     "_RegionName": "WEU"
-  },
-  {
-    "_GeoCode": "WEU",
-    "_RegionName": "weu"
-  },
-  {
-    "_GeoCode": "WEU",
-    "_RegionName": "WestEurope"
-  },
-  {
-    "_GeoCode": "WEU",
-    "_RegionName": "Weu"
   },
   {
     "_GeoCode": "WEU",
@@ -257,18 +185,6 @@
   },
   {
     "_GeoCode": "SEAS",
-    "_RegionName": "SEAS"
-  },
-  {
-    "_GeoCode": "SEAS",
-    "_RegionName": "SoutheastAsia"
-  },
-  {
-    "_GeoCode": "SEAS",
-    "_RegionName": "seas"
-  },
-  {
-    "_GeoCode": "SEAS",
     "_RegionName": "Southeast_Asia"
   },
   {
@@ -289,19 +205,7 @@
   },
   {
     "_GeoCode": "EAS",
-    "_RegionName": "Eas"
-  },
-  {
-    "_GeoCode": "EAS",
-    "_RegionName": "eastasia"
-  },
-  {
-    "_GeoCode": "EAS",
     "_RegionName": "East_Asia"
-  },
-  {
-    "_GeoCode": "EAS",
-    "_RegionName": "EAS"
   },
   {
     "_GeoCode": "JPE",
@@ -321,19 +225,7 @@
   },
   {
     "_GeoCode": "JPE",
-    "_RegionName": "Jpe"
-  },
-  {
-    "_GeoCode": "JPE",
-    "_RegionName": "JapanEast"
-  },
-  {
-    "_GeoCode": "JPE",
     "_RegionName": "Japan East"
-  },
-  {
-    "_GeoCode": "JPE",
-    "_RegionName": "JPE"
   },
   {
     "_GeoCode": "JPW",
@@ -349,19 +241,7 @@
   },
   {
     "_GeoCode": "JPW",
-    "_RegionName": "japanwest"
-  },
-  {
-    "_GeoCode": "JPW",
-    "_RegionName": "JPW"
-  },
-  {
-    "_GeoCode": "JPW",
     "_RegionName": "Japan_West"
-  },
-  {
-    "_GeoCode": "JPW",
-    "_RegionName": "jpw"
   },
   {
     "_GeoCode": "JPW",
@@ -381,23 +261,11 @@
   },
   {
     "_GeoCode": "AUE",
-    "_RegionName": "AUE"
-  },
-  {
-    "_GeoCode": "AUE",
-    "_RegionName": "Aue"
-  },
-  {
-    "_GeoCode": "AUE",
     "_RegionName": "Australia East"
   },
   {
     "_GeoCode": "AUE",
     "_RegionName": "Australia-East"
-  },
-  {
-    "_GeoCode": "AUE",
-    "_RegionName": "australiaeast"
   },
   {
     "_GeoCode": "AUW",
@@ -420,18 +288,6 @@
     "_RegionName": "Australia_West"
   },
   {
-    "_GeoCode": "AUW",
-    "_RegionName": "AustraliaWest"
-  },
-  {
-    "_GeoCode": "AUW",
-    "_RegionName": "Auw"
-  },
-  {
-    "_GeoCode": "AUW",
-    "_RegionName": "AUW"
-  },
-  {
     "_GeoCode": "BRSE",
     "_RegionName": "BRSE"
   },
@@ -445,19 +301,7 @@
   },
   {
     "_GeoCode": "BRSE",
-    "_RegionName": "brazilsoutheast"
-  },
-  {
-    "_GeoCode": "BRSE",
     "_RegionName": "Brazil South East"
-  },
-  {
-    "_GeoCode": "BRSE",
-    "_RegionName": "brse"
-  },
-  {
-    "_GeoCode": "BRSE",
-    "_RegionName": "Brse"
   },
   {
     "_GeoCode": "BRSE",
