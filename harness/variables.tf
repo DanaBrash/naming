@@ -1,5 +1,5 @@
 
-variable "proj" {
+variable "projName" {
   description = "Project code prefix"
   type        = string
 }
