@@ -9,8 +9,8 @@ variable "loc" {
   type        = string
 }
 
-variable "loc" {
-  description = "Azure location (e.g. eastus2)"
+variable "type" {
+  description = "resource type (e.g. SQL Server)"
   type        = string
 }
 

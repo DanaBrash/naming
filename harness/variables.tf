@@ -11,7 +11,7 @@ variable "loc" {
 
 variable "type" {
   description = "Resource type (flexible input)"
-  type        = stringdsf
+  type        = string
 }
 
 variable "iterator" {
