@@ -9,7 +9,7 @@ locals {
   # Convert the JSON list to a map of normalized RegionName -> GeoCode
   location_lookup_map = {
     for entry in local.location_map_raw :
-    replace(lower(entry._RegionName), " ", "") => lower(entry._GeoCode)
+    replace(lower(entry._RegionName), " ", "") => lower(entry._GeoCode) ...
   }
 
   # Lookup the abbreviation
