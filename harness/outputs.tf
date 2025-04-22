@@ -7,7 +7,7 @@ output "normalized_type" {
 }
 
 output "location_abbreviation" {
-  value = module.naming.location_abbreviation
+  value = module.naming.loc_abbr
 }
 
 
