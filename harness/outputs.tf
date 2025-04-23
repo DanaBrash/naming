@@ -1,5 +1,5 @@
 output "resource_name" {
-  value = module.naming.name[module.naming.normalized_type]
+  value = module.naming.name[module.naming.resolved_type]
 }
 
 output "normalized_type" {

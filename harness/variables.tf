@@ -14,11 +14,11 @@ variable "loc" {
 variable "type" {
   description = "resource type (e.g. SQL Server)"
   type        = string
-  default     = "bucket machine"
+  default     = "virtual machine"
 }
 
 variable "iterator" {
   description = "Incrementing counter for uniqueness"
   type        = string
-  default     = "125"
+  default     = "1"
 }
