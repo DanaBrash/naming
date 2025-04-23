@@ -1,310 +1,35 @@
-[
-  {
-    "_GeoCode": "EUS2",
-    "_RegionName": "East_US_2"
-  },
-  {
-    "_GeoCode": "EUS2",
-    "_RegionName": "eastus2"
-  },
-  {
-    "_GeoCode": "EUS2",
-    "_RegionName": "E U S2"
-  },
-  {
-    "_GeoCode": "EUS2",
-    "_RegionName": "East US 2"
-  },
-  {
-    "_GeoCode": "EUS2",
-    "_RegionName": "Eus2"
-  },
-  {
-    "_GeoCode": "EUS2",
-    "_RegionName": "East-US-2"
-  },
-  {
-    "_GeoCode": "EUS2",
-    "_RegionName": "E U.S.2"
-  },
-  {
-    "_GeoCode": "EUS2",
-    "_RegionName": "E US2"
-  },
-  {
-    "_GeoCode": "WUS3",
-    "_RegionName": "W US3"
-  },
-  {
-    "_GeoCode": "WUS3",
-    "_RegionName": "WUS3"
-  },
-  {
-    "_GeoCode": "WUS3",
-    "_RegionName": "W U S3"
-  },
-  {
-    "_GeoCode": "WUS3",
-    "_RegionName": "West-US-3"
-  },
-  {
-    "_GeoCode": "WUS3",
-    "_RegionName": "westus3"
-  },
-  {
-    "_GeoCode": "WUS3",
-    "_RegionName": "West_US_3"
-  },
-  {
-    "_GeoCode": "WUS3",
-    "_RegionName": "W U.S.3"
-  },
-  {
-    "_GeoCode": "WUS3",
-    "_RegionName": "West US 3"
-  },
-  {
-    "_GeoCode": "NCUS",
-    "_RegionName": "NorthCentralUS"
-  },
-  {
-    "_GeoCode": "NCUS",
-    "_RegionName": "North_Central_US"
-  },
-  {
-    "_GeoCode": "NCUS",
-    "_RegionName": "North Central US"
-  },
-  {
-    "_GeoCode": "NCUS",
-    "_RegionName": "NCUS"
-  },
-  {
-    "_GeoCode": "NCUS",
-    "_RegionName": "NC U.S."
-  },
-  {
-    "_GeoCode": "NCUS",
-    "_RegionName": "NC U S"
-  },
-  {
-    "_GeoCode": "NCUS",
-    "_RegionName": "NC US"
-  },
-  {
-    "_GeoCode": "NCUS",
-    "_RegionName": "North-Central-US"
-  },
-  {
-    "_GeoCode": "SCUS",
-    "_RegionName": "SC U S"
-  },
-  {
-    "_GeoCode": "SCUS",
-    "_RegionName": "SC U.S."
-  },
-  {
-    "_GeoCode": "SCUS",
-    "_RegionName": "South Central US"
-  },
-  {
-    "_GeoCode": "SCUS",
-    "_RegionName": "Scus"
-  },
-  {
-    "_GeoCode": "SCUS",
-    "_RegionName": "South-Central-US"
-  },
-  {
-    "_GeoCode": "SCUS",
-    "_RegionName": "SouthCentralUS"
-  },
-  {
-    "_GeoCode": "SCUS",
-    "_RegionName": "SC US"
-  },
-  {
-    "_GeoCode": "SCUS",
-    "_RegionName": "South_Central_US"
-  },
-  {
-    "_GeoCode": "NEU",
-    "_RegionName": "NorthEurope"
-  },
-  {
-    "_GeoCode": "NEU",
-    "_RegionName": "North-Europe"
-  },
-  {
-    "_GeoCode": "NEU",
-    "_RegionName": "North_Europe"
-  },
-  {
-    "_GeoCode": "NEU",
-    "_RegionName": "NEU"
-  },
-  {
-    "_GeoCode": "NEU",
-    "_RegionName": "North Europe"
-  },
-  {
-    "_GeoCode": "WEU",
-    "_RegionName": "West Europe"
-  },
-  {
-    "_GeoCode": "WEU",
-    "_RegionName": "westeurope"
-  },
-  {
-    "_GeoCode": "WEU",
-    "_RegionName": "West-Europe"
-  },
-  {
-    "_GeoCode": "WEU",
-    "_RegionName": "WEU"
-  },
-  {
-    "_GeoCode": "WEU",
-    "_RegionName": "West_Europe"
-  },
-  {
-    "_GeoCode": "SEAS",
-    "_RegionName": "Southeast Asia"
-  },
-  {
-    "_GeoCode": "SEAS",
-    "_RegionName": "Southeast-Asia"
-  },
-  {
-    "_GeoCode": "SEAS",
-    "_RegionName": "Seas"
-  },
-  {
-    "_GeoCode": "SEAS",
-    "_RegionName": "southeastasia"
-  },
-  {
-    "_GeoCode": "SEAS",
-    "_RegionName": "Southeast_Asia"
-  },
-  {
-    "_GeoCode": "EAS",
-    "_RegionName": "East Asia"
-  },
-  {
-    "_GeoCode": "EAS",
-    "_RegionName": "eas"
-  },
-  {
-    "_GeoCode": "EAS",
-    "_RegionName": "East-Asia"
-  },
-  {
-    "_GeoCode": "EAS",
-    "_RegionName": "EastAsia"
-  },
-  {
-    "_GeoCode": "EAS",
-    "_RegionName": "East_Asia"
-  },
-  {
-    "_GeoCode": "JPE",
-    "_RegionName": "Japan_East"
-  },
-  {
-    "_GeoCode": "JPE",
-    "_RegionName": "japaneast"
-  },
-  {
-    "_GeoCode": "JPE",
-    "_RegionName": "jpe"
-  },
-  {
-    "_GeoCode": "JPE",
-    "_RegionName": "Japan-East"
-  },
-  {
-    "_GeoCode": "JPE",
-    "_RegionName": "Japan East"
-  },
-  {
-    "_GeoCode": "JPW",
-    "_RegionName": "Jpw"
-  },
-  {
-    "_GeoCode": "JPW",
-    "_RegionName": "JapanWest"
-  },
-  {
-    "_GeoCode": "JPW",
-    "_RegionName": "Japan-West"
-  },
-  {
-    "_GeoCode": "JPW",
-    "_RegionName": "Japan_West"
-  },
-  {
-    "_GeoCode": "JPW",
-    "_RegionName": "Japan West"
-  },
-  {
-    "_GeoCode": "AUE",
-    "_RegionName": "Australia_East"
-  },
-  {
-    "_GeoCode": "AUE",
-    "_RegionName": "aue"
-  },
-  {
-    "_GeoCode": "AUE",
-    "_RegionName": "AustraliaEast"
-  },
-  {
-    "_GeoCode": "AUE",
-    "_RegionName": "Australia East"
-  },
-  {
-    "_GeoCode": "AUE",
-    "_RegionName": "Australia-East"
-  },
-  {
-    "_GeoCode": "AUW",
-    "_RegionName": "auw"
-  },
-  {
-    "_GeoCode": "AUW",
-    "_RegionName": "Australia West"
-  },
-  {
-    "_GeoCode": "AUW",
-    "_RegionName": "Australia-West"
-  },
-  {
-    "_GeoCode": "AUW",
-    "_RegionName": "australiawest"
-  },
-  {
-    "_GeoCode": "AUW",
-    "_RegionName": "Australia_West"
-  },
-  {
-    "_GeoCode": "BRSE",
-    "_RegionName": "BRSE"
-  },
-  {
-    "_GeoCode": "BRSE",
-    "_RegionName": "BrazilSouthEast"
-  },
-  {
-    "_GeoCode": "BRSE",
-    "_RegionName": "Brazil_South_East"
-  },
-  {
-    "_GeoCode": "BRSE",
-    "_RegionName": "Brazil South East"
-  },
-  {
-    "_GeoCode": "BRSE",
-    "_RegionName": "Brazil-South-East"
-  }
-]
+{
+  "eastus": "eus",
+  "east_us": "eus",
+  "eastus2": "eus2",
+  "east_us_2": "eus2",
+  "eastus3": "eus3",
+  "east_us_3": "eus3",
+  "centralus": "cus",
+  "central_us": "cus",
+  "northcentralus": "ncus",
+  "north_central_us": "ncus",
+  "southcentralus": "scus",
+  "south_central_us": "scus",
+  "westus": "wus",
+  "west_us": "wus",
+  "westus2": "wus2",
+  "west_us_2": "wus2",
+  "westus3": "wus3",
+  "west_us_3": "wus3",
+  "westcentralus": "wcus",
+  "west_central_us": "wcus",
+  "usgovvirginia": "usgv",
+  "usgovva": "usgv",
+  "govvirginia": "usgv",
+  "usgovtexas": "usgt",
+  "usgovtx": "usgt",
+  "govtexas": "usgt",
+  "usgovarizona": "usga",
+  "usgovaz": "usga",
+  "govarizona": "usga",
+  "usdodeast": "usdode",
+  "dodeast": "usdode",
+  "usdodcentral": "usdodc",
+  "dodcentral": "usdodc"
+}

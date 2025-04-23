@@ -6,3 +6,4 @@ locals {
   example_type    = var.type != "" ? var.type : "virtual network"
   example_iterator = var.iterator != null ? var.iterator : 1
 }
+

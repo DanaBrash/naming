@@ -1,1 +1,1 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"naming","Source":"git::https://github.com/DanaBrash/naming.git","Dir":".terraform/modules/naming"}]}
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"naming","Source":"./..","Dir":".."}]}

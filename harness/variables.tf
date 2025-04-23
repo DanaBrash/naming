@@ -1,20 +1,24 @@
 
 variable "projName" {
-  description = "Project code prefix"
+  description = "Short project name prefix"
   type        = string
+  default     = "cala"
 }
 
 variable "loc" {
-  description = "Azure location name (e.g., eastus2)"
+  description = "Azure location (e.g. eastus2)"
   type        = string
+  default     = "westus2"
 }
 
 variable "type" {
-  description = "Resource type (flexible input)"
+  description = "resource type (e.g. SQL Server)"
   type        = string
+  default     = "bucket machine"
 }
 
 variable "iterator" {
-  description = "Instance count or suffix for uniqueness"
-  type        = number
+  description = "Incrementing counter for uniqueness"
+  type        = string
+  default     = "125"
 }

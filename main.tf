@@ -1,22 +1,24 @@
+// main.tf — Naming Module
 
 locals {
-  # Load the JSON file
-  location_map_raw = jsondecode(file("${path.module}/data/azure_location_variants.json"))
+  # Load the JSON files
+  location_alias_map        = jsondecode(file("${path.module}/data/azure_location_variants.json"))
+  resource_type_alias_map   = jsondecode(file("${path.module}/data/resourcetypes.json"))
 
-  # Normalize input: lowercase and remove spaces
+  # Normalize inputs
   normalized_location_input = replace(lower(var.loc), " ", "")
+  normalized_type_input     = replace(lower(var.type), " ", "")
 
-  # Convert the JSON list to a map of normalized RegionName -> GeoCode
-  location_lookup_map = {
-    for entry in local.location_map_raw :
-    replace(lower(entry._RegionName), " ", "") => lower(entry._GeoCode) ...
+  # Resolved values
+  loc_abbr      = try(local.location_alias_map[local.normalized_location_input], "unknown")
+  resolved_type = try(local.resource_type_alias_map[local.normalized_type_input], null)
+}
+
+resource "null_resource" "validate_type" {
+  count = local.resolved_type != null ? 0 : 1
+
+  provisioner "local-exec" {
+    command = "echo 'Invalid resource type: ${var.type}. Please refer to resourcetypes.json for supported aliases.' && exit 1"
   }
-
-  # Lookup the abbreviation
-  loc_abbr = try(local.location_lookup_map[local.normalized_location_input], "unknown")
 }
 
-output "loc_abbr" {
-  description = "Normalized location abbreviation"
-  value       = local.loc_abbr
-}
