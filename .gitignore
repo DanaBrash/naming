@@ -1,0 +1,21 @@
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+terraform.tfvars
+*.tfvars
+
+# Node / React
+node_modules/
+build/
+dist/
+.env
+.env.local
+.env.*.local
+.cache/
+*.log
+
+# macOS / VSCode
+.DS_Store
+.vscode/
